@@ -8,6 +8,11 @@
 <body>
     <h1>Helo word</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, amet beatae vitae et laboriosam debitis nemo, eligendi accusantium tempore nisi quo totam cumque possimus eaque velit doloribus rem. Sapiente, odit!</p>
-    
+    <ul>
+        <li>
+            kamu
+        </li>
+        <li>dia</li>
+    </ul>
 </body>
 </html>
